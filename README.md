@@ -144,6 +144,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## output 1
 <img src="https://github.com/Bala1511/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118680410/706d3431-dc70-4c02-b31f-7c137825237e" width="450" height="450">
 
+
+
 ## output 2
  <img src="https://github.com/Bala1511/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118680410/4430414b-a259-4a8c-ac99-6cb38fdb9239" width="450" height="450">
  
