@@ -1,8 +1,8 @@
-```
-NAME : HARISH RAGAV S
-REG NO:212222110013
-```
 # EXPERIMENT 02 INTERFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
+
+### NAME : HARISH RAGAV S
+### REG NO:212222110013
+
 ## Aim: 
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 
